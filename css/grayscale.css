@@ -378,9 +378,14 @@ body {
 #headerone {
   color: #6D1704;
   text-shadow: 2px 2px 4px #94311d;
+  font-size: 8vmin;
 }
 
 #headertwo {
   color: #FFB342;
   text-shadow: 1px 1px 1px #250600;
+}
+
+.headeritem {
+  margin-top: 14px;
 }
